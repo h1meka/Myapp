@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1080934354963",
+    "firebase_url": "https://appdata-ec9a1.firebaseio.com",
+    "project_id": "appdata-ec9a1",
+    "storage_bucket": "appdata-ec9a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080934354963:android:9e73d4feb46b7bad532fe6",
+        "android_client_info": {
+          "package_name": "app.watanabe.watahime.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080934354963-aloqvssq2t3vbf8g9gnh4q0oor545jg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN5AxiIMGelurdQzE0s8PCTTPan5IXpYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080934354963-aloqvssq2t3vbf8g9gnh4q0oor545jg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
